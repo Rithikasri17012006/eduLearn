@@ -1,0 +1,19 @@
+{
+  "name": "EduLearn - Offline Learning Platform",
+  "short_name": "EduLearn",
+  "description": "Learn anywhere, anytime - even offline",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "32x32",
+      "type": "image/svg+xml"
+    }
+  ],
+  "categories": ["education", "learning"],
+  "lang": "en"
+}
